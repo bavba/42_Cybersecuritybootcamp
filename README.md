@@ -22,7 +22,7 @@ Throughout the bootcamp, I had the opportunity to delve into various cybersecuri
 
 The curriculum provided a hands-on approach to tackle the evolving landscape of digital threats and protect critical systems and data.
 
-## **Projects:**
+## **Projects**
 
 Throughout the bootcamp, I completed several projects, each demonstrating different aspects of cybersecurity. Here are some notable ones:
 
@@ -66,7 +66,7 @@ Throughout the bootcamp, I utilized a variety of technologies and tools, includi
 
 · Containerization: Docker.
 
-## **Methodology:**
+## **Methodology**
 
 Each project was developed in a separate branch and folder, which were later merged with the main branch upon completing the bootcamp.
 
