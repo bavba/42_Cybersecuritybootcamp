@@ -26,7 +26,7 @@ The curriculum provided a hands-on approach.
 
 Throughout the bootcamp, I completed several projects, each demonstrating different aspects of cybersecurity. Here are some notable ones:
 
-```arachnida:``` This project consists of two tools, spider and scorpion, designed to perform specific tasks related to web scraping and image metadata analysis. 
+[arachnida:](https://github.com/bavba/42_Cyber_arachnida) This project consists of two tools, spider and scorpion, designed to perform specific tasks related to web scraping and image metadata analysis. 
 The spider tool is capable of recursively extracting all images from a given website, it offers various flags for customization.
 The scorpion tool takes image files as parameters and analyzes them for EXIF and other metadata, displaying the results on the screen. It supports the same file extensions managed by the spider tool. The scorpion tool showcases basic attributes such as creation date and additional EXIF data. The format in which the metadata is presented is left to the user's choice.
 
