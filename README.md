@@ -28,7 +28,7 @@ Throughout the bootcamp, I completed several projects, each demonstrating differ
 
 [arachnida:](https://github.com/bavba/42_Cyber_arachnida) This project consists of two tools, spider and scorpion, designed to perform specific tasks related to web scraping and image metadata analysis. 
 The spider tool is capable of recursively extracting all images from a given website, it offers various flags for customization.
-The scorpion tool takes image files as parameters and analyzes them for EXIF and other metadata, displaying the results on the screen. It supports the same file extensions managed by the spider tool. The scorpion tool showcases basic attributes such as creation date and additional EXIF data. The format in which the metadata is presented is left to the user's choice.
+The scorpion tool takes image files as parameters and analyzes them for EXIF and other metadata, displaying the results on the screen. It supports the same file extensions managed by the spider tool. The scorpion tool showcases basic attributes such as creation date and additional EXIF data.
 
 ```ft_otp```This project provides a secure One-Time Password (OTP) generator implemented in C. It enables users to register an initial key and generates a new password each time it is requested. The program ensures the safe storage of the key in an encrypted file and utilizes system time for password generation. It also includes features such as generating a new password and the flexibility to specify an encryption password for enhanced security.
 
